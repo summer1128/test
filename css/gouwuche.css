@@ -55,16 +55,41 @@
 .goods{
 	width: 100%;
 	height: 7.03rem;
-	background: #2EA6E5;
+
 	padding-top: 0.11rem;
 	box-sizing: border-box;
 	display: flex;
 	justify-content: space-between;
 }
-.goods div{
+.goods .one{
 	width: 49.2%;
 	height: 100%;
-	background: #3C3C3C;
 }
+.goods .two{
+	width: 100%;
+	height: 5.2rem;
+}
+.goods .text{
+	width: 100%;
+	height: 1.72rem;
+	padding: 0.27rem 0.41rem;
 
+	box-sizing: border-box;
+}
+.goods .text .text-one{
+	font-size: 0.4rem;
+	color: #3C3C3C;
+	
+
+}
+.goods .text .text-two{
+	font-size: 0.35rem;
+	color: #FF6700;
+	padding-top: 0.2rem;
+	box-sizing: border-box;
+}
+.goods img{
+	width: 100%;
+	height: 100%;
+}
 
