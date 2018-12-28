@@ -11,6 +11,8 @@ ul,li{
 }
 a{
 	text-decoration: none;
+	outline: none;
+	color: #919191;
 }
 .iconfont{
 	font-family: "iconfont";
